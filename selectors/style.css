@@ -1,0 +1,58 @@
+*{
+    color: purple;
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    background-color: antiquewhite;
+}
+
+.div-ele{
+    background-color: aquamarine;
+}
+
+#heyP{
+    color:brown;
+    font-size: 150px;
+}
+
+.para{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.para2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.para, .para2{
+    background-color: gray;
+    color: white;
+}
+
+.para.header.lorem.ipsum{
+    background-color: blue;
+}
+
+.para2.header{
+    font-size: 50px;
+}
+
+.div-ele .para {
+    background-color: pink;
+}
+
+.edei p {
+    background-color: cadetblue;
+}
+
+.main .list #subsection{
+    background-color: aliceblue;
+    font-size: 40px;
+    padding: 20px;
+    margin: 10px;
+}
+    .main .last #subsection{
+        background-color: pink;
+        
+    }
